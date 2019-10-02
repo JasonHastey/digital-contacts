@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://livingonarock:password1234@cluster0-zwcxb.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "covert"
+}
